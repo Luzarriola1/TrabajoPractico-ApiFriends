@@ -1,0 +1,464 @@
+[
+
+    {
+        "id":1,
+        "temporada":"Temporada: 1",
+        "capitulo":"Capitulo: 1",
+        "imagen": "https://i.postimg.cc/K8snMgdL/img1.jpg",
+        "titulo":"En el qué Mónica tiene una Compañera",
+        "resumen":"Resumen: Rachel abandona a Barry en el altar porque le recuerda a la cabeza de Mr. Potato, se muda al apartamento de Monica y quiere encontrar uno de 'esos trabajos' que los otros tienen. Monica tiene una cita con Paul, el chico de los vinos, que resulta ser poco sincero con ella. Ross está deprimido por el fracaso de su matrimonio, ya que su mujer lo ha abandonado por otra mujer. Ross revela su amor Rachel, de quien está enamorado desde el instituto. "
+    },
+
+    {
+        "id":2,
+        "temporada":"Temporada: 1",
+        "capitulo":"Capitulo: 9",
+        "imagen": "https://i.postimg.cc/pdwz0MVL/img2.jpg",
+        "titulo":"En el que el Globo de Acción de Gracias se escapa",
+        "resumen":"Monica cocina la cena de Acción de Gracias para todos porque sus planes fallan. Cuando un globo gigante se escapa por las calles de Nueva York, todos salen a mirarlo, pero nadie coge las llaves del apartamento, por lo que se quema la cena. Ross le habla a la barriga de Carol para que el bebé se acostumbre a él."
+    },
+
+    {
+        "id":3,
+        "temporada":"Temporada: 1",
+        "capitulo":"Capitulo: 24",
+        "imagen": "https://i.postimg.cc/sX5SqH19/img3.jpg",
+        "titulo":"El de las sorpresas",
+        "resumen": "A Chandler se le escapa que Ross está enamorado de Rachel, mientras Ross está de viaje a China, comprando un hueso para el museo. Rachel decide qué hacer, pero, cuando Ross vuelve, le espera una sorpresa. Joey está ayudando en un programa de fertilidad en el Centro Médico de la Universidad de Nueva York y en el contrato se le prohíbe hacer el amor... por lo que tiene que encontrar alguna solución para acostarse con su nueva novia, Melanie."
+    },
+
+    {
+        "id":4,
+        "temporada":"Temporada: 2",
+        "capitulo":"Capitulo: 1",
+        "imagen": "api/img4.png",
+        "titulo":"El de la nueva novia de Ross",
+        "resumen":"Rachel ha decidido declararse a Ross, pero no puede porque Ross vuelve de China con Julie, su nueva novia. Rachel, por despecho, acaba pasando la noche con Paolo. Phoebe demuestra sus artes como peluquera, pero le hace un terrible corte de pelo a Monica. Chandler sufre una mala experiencia con el sastre de Joey."
+    },
+    
+    {
+        "id":5,
+        "temporada":"Temporada: 2",
+        "capitulo":"Capitulo: 8",
+        "imagen": "api/img5.png",
+        "titulo":"El de la lista",
+        "resumen":"Ross debe decidir entre Rachel y Julie y hace una lista con los pros y los contras de cada una de las chicas. Rachel lee la lista y se enfada con Ross."
+    },
+
+    {
+        "id":6,
+        "temporada":"Temporada: 2",
+        "capitulo":"Capitulo: 22",
+        "imagen": "api/img6.png",
+        "titulo":"El de las dos fiestas",
+        "resumen":"Los padres de Rachel quieren divorciarse y, para poder mantener a los padres separados, los chicos le organizan a Rachel dos fiestas de cumpleaños. La fiesta de Monica es bastante aburrida, por lo que Phoebe empieza a sacar gente y llevarla a la divertida fiesta de Joey y Chandler. Rachel tiene que ir de una fiesta a la otra para poder hablar tanto con su padre como con su madre."
+    },
+
+    {
+        "id":7,
+        "temporada":"Temporada:3",
+        "capitulo":"Capitulo: 6",
+        "imagen": "https://i.postimg.cc/k5vqHxqR/img7.jpg",
+        "titulo":"El del Flash-back",
+        "resumen":"A partir de una pregunta de Janice, el grupo recuerda lo que ocurrió hace tres años: Chandller busca un nuevo compañero de piso, Phoebe se va en secreto del apartamento de Monica, Rachel quiere tener una aventura antes de su boda con Barry y Ross está contento porque su mujer, Carol, ha encontrado una nueva amiga: Susan."
+    },
+
+    {
+        "id":8,
+        "temporada":"Temporada: 3",
+        "capitulo":"Capitulo: 7",
+        "imagen": "api/img8.png",
+        "titulo":"El de la cama-bólido",
+        "resumen":"Monica y Phoebe van a comprar a la tienda del futuro exmarido de Janice, pero Monica acaba con la cama equivocada. Rachel y Ross cenan con el padre de ella, pero las cosas no van bien. Joey empieza a dar clases sobre cómo actuar en un 'culebrón'."
+
+    },
+
+    {
+        "id":9,
+        "temporada":"Temporada: 3",
+        "capitulo":"Capitulo: 12",
+        "imagen": "api/img9.png",
+        "titulo":"El de todos los celos",
+        "resumen":"Es el primer día de Rachel en su nuevo empleo, pero Ross continúa celoso de Mark. Chandler prepara una despedida de soltero para su primo. Joey consigue una audición para un musical de Broadway, pero no sabe bailar. Monica se enamora de Julio, un compañero de trabajo que escribe poesía y que le dedica un poema a Monica que no es muy halagador."
+    },
+
+    {
+        "id":10,
+        "temporada":"Temporada: 3",
+        "capitulo":"Capitulo: 17",
+        "imagen": "api/img10.png",
+        "titulo":"El del viaje de esquí fracasado",
+        "resumen":"El grupo trata de arreglárselas con Ross y Rachel por separado. Chandler empieza a fumar de nuevo. Rachel les invita a todos, excepto a Ross a ir a esquiar el fin de semana y acaban encerrados en el coche en un puesto de carretera. Ross se pone en medio del 'Aniversario' de Carol y Susan."
+    },
+
+    
+    {
+        "id":11,
+        "temporada":"Temporada: 3",
+        "capitulo":"Capitulo: 25",
+        "imagen": "api/img11.png",
+        "titulo":"El de la playa",
+        "resumen":"Phoebe encuentra una foto de sus padres con una amiga suya (que también se llama Phoebe). Phoebe decide buscarla y, como vive en la playa, todos deciden pasar el fin de semana en la playa. Monica se compadece de sus fracasos amorosos, lo que provoca que Chandler se ofrezca a ser su novio. Monica se ríe de él y Chandler empieza a demostrarle que puede ser un buen novio. Rachel y Ross flirtean en la playa, hasta que aparece Bonnie, la nueva novia de Ross. Rachel convence a Bonnie de que se afeite de nuevo la cabeza, por lo que Ross y Rachel se pelean. Rachel acaba confesándole a Ross que aún le quiere y éste debe decidir. Mientras, Phoebe descubre que la otra Phoebe no tiene ni idea de quién era su padre, pero tiene otra revelación que hacer."
+    },
+
+    {
+        "id":12,
+        "temporada":"Temporada: 4",
+        "capitulo":"Capitulo: 2",
+        "imagen": "https://i.postimg.cc/Kv7bjP3q/img12.jpg",
+        "titulo":"El de la gata",
+        "resumen":"Phoebe cree que el espíritu de su madre adoptiva vive en un gato que saltó sobre la funda de su guitarra en el Central Perk. Monica sale con un antiguo novio de la escuela de Rachel, que en la escuela era muy divertido pero un pesado actualmente. Y mientras Joey y Chandler deciden vender el centro de recreo, Joey llevará su estupidez a un nuevo nivel."
+    },
+
+    {
+        "id":13,
+        "temporada":"Temporada: 4",
+        "capitulo":"Capitulo: 5",
+        "imagen": "api/img13.png",
+        "titulo":"El de la novia de Joey",
+        "resumen":"Chandler conoce a una mujer en el Central Perk que resulta ser la nueva novia de Joey. El pronto se siente atraído, posiblemente enamorado, por ella. Ross y Rachel sienten celos de sus respectivos novios. Y Phoebe está desesperada por agarrar un resfriado al descubrir que su voz suena más sexy y canta mejor cuando tiene una flema en la garganta."
+    },
+
+    {
+        "id":14,
+        "temporada":"Temporada: 4",
+        "capitulo":"Capitulo: 7",
+        "imagen": "api/img14.png",
+        "titulo":"En el de cuando Chandler se pasa de la ralla",
+        "resumen":"Chandler debe decidir entre la chica de sus sueños y su mejor amigo cuando Kathy le da un apasionado beso. No es necesario decir que Joey se enfada cuando se entera de lo de Kathy y Chandler. Y nadie se atreve a decir a Ross lo mal que toca su teclado."
+    },
+
+    {
+        "id":15,
+        "temporada":"Temporada: 4",
+        "capitulo":"Capitulo: 15",
+        "imagen": "api/img15.png",
+        "titulo":"El de tanto rugby",
+        "resumen":"Janice vuelve a divorciarse e intenta volver con Chandler que tiene que marcharse a Yemen para deshacerse de ella. Ross juega al rugby con los amigos de Emily para impresionarla. Y Monica hace un destrozo en el piso para averiguar para que sirve un interruptor."
+    },
+
+    {
+        "id":16,
+        "temporada":"Temporada: 4",
+        "capitulo":"Capitulo: 23",
+        "imagen": "api/img16.png",
+        "titulo":"El de la boda de Ross, Parte 1",
+        "resumen":"Se van todos a Londres para la boda de Ross y Emily excepto Phoebe por su embarazo y Rachel porque no se siente cómoda. En Londres Chandler se avergüenza de Joey y deciden separarse. Monica habla con Emily y esta decide posponer la boda. Joey graba su visita a Londres con su cámara incluyendo su encuentro con la duquesa de York. Ross recrimina a Monica lo que ha hecho y esta acepta ayudarle. Ross y Emily deciden seguir con lo planeado. Rachel se dirige a Londres para decirle a Ross que le quiere sin que Phoebe pueda evitarlo."
+    },
+
+    {
+        "id":17,
+        "temporada":"Temporada: 4",
+        "capitulo":"Capitulo: 24",
+        "imagen": "api/img17.png",
+        "titulo":"El de la boda de Ross, Parte 2",
+        "resumen":"Phoebe llama por teléfono para avisar a Emily de la llegada de Rachel. Los padres de los novios se conocen y tienen un enfrentamiento por la boda. Chandler y Monica se acuestan juntos. Ross se encuentra con Rachel, pero ella no le dice lo que siente. Durante la boda Ross se equivoca y llama 'Rachel' a Emily."
+    },
+
+    {
+        "id":18,
+        "temporada":"Temporada: 5",
+        "capitulo":"Capitulo: 2",
+        "imagen": "https://i.postimg.cc/vHbjPpDh/img18.jpg",
+        "titulo":"El de los besos El de los besos",
+        "resumen":"Monica y Chandler están a punto de ser descubiertos por Joey cuando se estaban bañando juntos en la bañera. El grupo espera en casa a que Rachel llegue de su viaje de Grecia y Ross habla accidentalmente de ella como si fuera su esposa. Rachel nombra a Monica que sea la encargada de controlar su vida amorosa. Chandler se prepara para ir al trabajo y por error besa a Monica en frente de Phoebe y Rachel..."
+    },
+
+    {
+        "id":19,
+        "temporada":"Temporada: 5",
+        "capitulo":"Capitulo: 5",
+        "imagen": "api/img19.png",
+        "titulo":"El de los Kipss",
+        "resumen":"Monica y Chandler se preparan para salir juntos. Ross intenta decirle a Rachel que ya no puede volver a verla nunca más. Monica y Chandler se van a Atlantic City juntos. En Atlantic City Monica busca la habitación perfecta porque a todas les encuentra pequeños defectos mientras Chandler quiere ver la televisión, al final acaban discutiendo. Cuando finalmente Ross se lo dice Rachel, ella se lo toma mal. Ross toma la decisión de apartarse del grupo para poder arreglar su matrimonio con Emily. Joey descubre la relación que hay entre Chandler y Monica y estos le piden que lo guarde en secreto."
+    },
+
+    {
+        "id":20,
+        "temporada":"Temporada: 5",
+        "capitulo":"Capitulo: 8",
+        "imagen": "api/img20.png",
+        "titulo":"El de los días de acción de gracias",
+        "resumen":"El grupo está descansando después de la cena de acción de gracias y todos empiezan a contar sus peores días de acción de gracias. En 1978 Chandler se entera que sus padres se van a divorciar por que su padre se acuesta con el criado. En 1862 Phoebe pasa por una guerra (en una vida anterior). En 1992 Joey acaba con la cabeza metida dentro del pavo de acción de gracias. En 1987 una Monica gorda conoce a Chandler por primera vez y él accidentalmente la insulta..."
+    },
+
+    {
+        "id":21,
+        "temporada":"Temporada: 5",
+        "capitulo":"Capitulo: 11",
+        "imagen": "api/img21.png",
+        "titulo":"El de todas las promesas",
+        "resumen":"Al acabar el año, el grupo decide hacer sus propósitos para el nuevo año. Ross decide hacer una cosa nueva cada día. Chandler decide no reírse de ninguno de sus amigos durante una semana. Joey quiere aprender a tocar la guitarra y Phoebe se ofrece para ser su profesora. Rachel promete no ser tan cotilla. Ross sufre una delicada situación en un cuarto de baño con unos pantalones de cuero. Rachel se entera de la relación entre Monica y Chandler."
+    },
+
+    {
+        "id":22,
+        "temporada":"Temporada: 5",
+        "capitulo":"Capitulo: 14",
+        "imagen": "api/img22.png",
+        "titulo":" En el que todos se enteran",
+        "resumen":"El tío gordo desnudo se traslada y Ross piensa que podría irse a vivir a su apartamento. Mientras visitan el apartamento, Phoebe accidentalmente ve 'juntos' a Monica y Chandler a través de la ventana. Rachel, Joe.y Phoebe deciden guardar el secreto y usarlo para aprovecharse de los dos enamorados. Phoebe hace creer a Chandler que está enamorada de él... "
+    },
+
+    {
+        "id":23,
+        "temporada":"Temporada: 5",
+        "capitulo":"Capitulo: 19",
+        "imagen": "api/img23.png",
+        "titulo":" En el que Ross no sabe ligar",
+        "resumen":"Monica y Chandler van a cumplir diez meses juntos. Chandler tontea con la chica que le trae la pizza. Joey va a aparecer en la serie 'Ley y orden' y trae a su abuela para que lo vea. Rachel busca un par de pendientes que pertenecían a Monica y ella perdió. Ross intenta ligar con la chica de las pizzas. La escena de Joey en la serie fue cortada y no sabe cómo decírselo a su abuela. Ross no puede ligar. "
+    },
+
+    {
+        "id":24,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 1",
+        "imagen": "api/img24.png",
+        "titulo":"Después de Las Vegas",
+        "resumen":"Ross y Rachel despiertan juntos en la cama no recordando que había pasado la noche anterior. Cuando están desayunando junto a sus amigos, éstos les preguntan qué fue lo que les pasó la noche anterior y ahí recuerdan todo. Impresionados por lo que hicieron deciden tratan de conseguir una anulación de su matrimonio apenas lleguen a Nueva York. Ross le dice a Rachel que no se preocupe, que él arreglaba todo, pero no lo hace porque no quiere tener tres divorcios..."
+    },
+
+    {
+        "id":25,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 3",
+        "imagen": "api/img25.png",
+        "titulo":"El de la negativa de Ross",
+        "resumen":"Phoebe tiene una compañera vivienda con ella, Denise, que nadie conoce. Rachel está tratando de encontrar un nuevo departamento donde vivir y recibe ofertas de Joey y Ross. Phoebe continúa diciéndole a Ross que sigue enamorado de Rachel. Ross no sabe si el hecho de que Rachel vaya a vivir con él sea una buena idea. Mónica y Chandler discuten al tratar de decidir qué hacer con el cuarto vacío de Rachel. Joey continúa buscando nuevos compañeros o compañeras. Ross aún no le ha dicho a Rachel que siguen casados."
+    },
+
+    {
+        "id":26,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 9",
+        "imagen": "api/img26.png",
+        "titulo":"En el que Ross se emborracha",
+        "resumen":"Para la cena del Día de Gracias, Janine invita a Joey y Ross para salir con ella y sus amigas bailarinas. No pueden ir porque tienen que ir a comer a lo de Monica primero. El Sr. y la Sra. Geller también vienen a comer, así que Mónica usa esta cena para contarles su romance con Chandler. Los padres no lo quieren a Chandler porque Ross cuando eran chicos, les dijo que consumía drogas para cubrirse. Mónica les cuenta la verdad y muchos otros secretos de Ross que sus padres no sabían. Rachel hace un nuevo postre y le pone carne. Todos odian el postre excepto Joey que se come las porciones de todos."
+    },
+
+    {
+        "id":27,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 15",
+        "imagen": "api/img27.png",
+        "titulo":"El de lo que pudo haber sido (I)",
+        "resumen":"Las noticias de que Barry y Mindy se divorcian hace que todos piensen que hubiera pasado si Rachel se hubiera casado con Barry; si la mujer de Ross no se hubiera dado cuenta de que era lesbiana; si Mónica seguiría gorda; si Joey seguiría trabajando en Days of Our Lifes; si Chandler hubiera renunciado a su trabajo de data entry para dedicarse a la escritura y si Phoebe trabajaría de una corredora de bolsa. Ross y Rachel, dos personas con matrimonios infelices se cruzan en la calle después de mucho tiempo de no verse. "
+    },
+
+    {
+        "id":28,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 16",
+        "imagen": "api/img28.png",
+        "titulo":"El de lo que pudo haber sido (II)",
+        "resumen":"Continuando la realidad alterna."
+    },
+
+    
+    {
+        "id":29,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 19",
+        "imagen": "api/img29.png",
+        "titulo":"El del frigorífico de Joey",
+        "resumen":"Se rompe el frigorífico de Joey, así que este hace todo lo posible para convencer a sus amigos para que le compren uno nuevo. Rachel tiene una cena benéfica en donde trabaja y tiene que llevar una persona, pero como no tiene pareja estable por el momento no sabe a quién llevar. Phoebe le presenta a alguien, pero Mónica y Chandler le presentan a otra persona. Los dos chicos llegan al mismo momento..."
+    },
+
+
+    {
+        "id":30,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 22",
+        "imagen": "api/img30.png",
+        "titulo":"En el que Paul es el elegido",
+        "resumen":"Rachel mantiene una relación con Paul, por su parte, Ross, está saliendo con Elizabeth, la joven hija universitaria de Paul. La relación está totalmente prohibida para el padre."
+    },
+
+    {
+        "id":31,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 24",
+        "imagen": "api/img31.png",
+        "titulo":"El de la proposición (I)",
+        "resumen":"Se acerca el gran momento de Chandler. Va a proponerle matrimonio a Mónica. Todo parece funcionar bien y la velada romántica elegida para el gran momento transcurre bien. Hasta que aparece Richard que tiene un secreto que confesar. Continúa enamorado de Mónica y quiere tener hijos con ella. Rachel, Phoebe y Joey acuden a una subasta benéfica. Sin saber muy bien como Joey compra un yate de 20.000 dólares."
+    },
+
+    {
+        "id":32,
+        "temporada":"Temporada: 6",
+        "capitulo":"Capitulo: 25",
+        "imagen": "https://i.postimg.cc/Wz6jC2X2/img32.jpg",
+        "titulo":"El de la proposición (II)",
+        "resumen":"Rachel se enfada con Phoebe por tener un marido suplente. El plan de su amiga era que si llegaba a los cuarenta sin casarse Joey sería su esposo. Rachel quiere también un marido suplente, su primera opción es Ross, pero Phoebe también se le ha adelantado. Joey está emocionado con su nuevo barco y quiere convertirse en un auténtico capitán. Richard pasa a la acción, pide matrimonio a Mónica. Joey, cuando se entera, corre a informar a Chandler."
+    },
+
+    {
+        "id":33,
+        "temporada":"Temporada: 7",
+        "capitulo":"Capitulo: 1",
+        "imagen": "api/img33.png",
+        "titulo":"El del trueno de Mónica",
+        "resumen":"Chandler le ha propuesto matrimonio a Mónica. Al llegar Ross al apartamento se entera de todas las novedades y todos deciden festejar la noticia y brindar por los nuevos novios. Mónica en medio de la emoción del momento decide invitar a todos a continuar la fiesta en el hotel Palace."
+    },
+
+    {
+        "id":34,
+        "temporada":"Temporada: 7",
+        "capitulo":"Capitulo: 2",
+        "imagen": "https://i.postimg.cc/sDmsJgMm/img34.jpg",
+        "titulo":"El del libro de Rachel",
+        "resumen":"Mónica empieza a ponerse nerviosa con la boda. Decide seguir un libro que ha estado preparando desde cuarto en el que explica todo lo necesario para una boda perfecta. Quiere reunirse con sus padres para que le den el dinero que tenían ahorrado para la boda. Pero para su sorpresa el dinero ya no existe. Se ha convertido en la casa de la playa que sus padres compraron hace siete años."
+    },
+
+    {
+        "id":35,
+        "temporada":"Temporada: 7",
+        "capitulo":"Capitulo: 9",
+        "imagen": "api/img35.png",
+        "titulo":"El de los caramelos",
+        "resumen":"Ross lleva al pequeño Ben al parque para que monte en bicicleta. Phoebe recuerda entonces a una vecina que tuvo cuando era niña: nunca le dejaba su preciosa bicicleta. La pobre Phoebe tenía que conformarse con montar sobre la caja en la que había venido la bicicleta. La historia emociona a Ross que decide comprarle a Phoebe su bicicleta soñada. El problema es que Phoebe no sabe montar en bicicleta. Mónica quiere mejorar sus relaciones con sus vecinos, decide hacer unos caramelos y colocarle frente a su puerta, pero su éxito es mayor de lo que esperaba."
+    },
+
+    {
+        "id":36,
+        "temporada":"Temporada: 7",
+        "capitulo":"Capitulo: 2",
+        "imagen": "api/img36.png",
+        "titulo":"El de los besos El de los besos",
+        "resumen":"Rosita, el sillón de Joey se ha roto. Rachel quería usarlo y ha empujado demasiado y lo ha roto. Joey está dolido, su sillón se ha muerto. Rachel quiere compensar a su amigo y decide compararle un nuevo sillón. Chandler al llegar a casa de Joey ve el sillón de Joey y decide sentarse. Irremediablemente se desploma y cree ha roto a Rosita."
+    },
+
+    {
+        "id":37,
+        "temporada":"Temporada: 7",
+        "capitulo":"Capitulo: 14",
+        "imagen": "https://i.postimg.cc/P5C98XYP/img37.jpg",
+        "titulo":"En el que todos cumplen treinta",
+        "resumen":"Rachel cumple treinta años y sus amigos le preparan una fiesta especial, aunque a Rachel no está nada contenta con entrar en la treintena. Todos recordarán cómo les afectó a ellos cumplir treinta años."
+    },
+
+    {
+        "id":38,
+        "temporada":"Temporada: 7",
+        "capitulo":"Capitulo: 21",
+        "imagen": "api/img38.png",
+        "titulo":"El de los votos",
+        "resumen":"Es la hora de escribir los votos matrimoniales de Chandler y Mónica. Piensan que no les va a costar nada, pero al ponerse sobre el papel se quedan bloqueados. Chandler acude a sus amigos buscando ayuda, Mónica hace lo mismo. Entre los seis recuerdan cuales fueron los momentos que marcaron su relación."
+    },
+
+    {
+        "id":39,
+        "temporada":"Temporada: 8",
+        "capitulo":"Capitulo: 9",
+        "imagen": "api/img39.png",
+        "titulo":"El del rumor",
+        "resumen":"Los seis amigos celebran juntos el día de Acción de Gracias. Deciden invitar a un antiguo compañero de instituto de Ross y Mónica: Will. Joey quiere cenar pavo, pero es el único que quiere por lo que debe comérselo entero. Rachel descubre que cuando estaban en el instituto, Ross y Will fundaron un club llamado 'Odiamos a Rachel' que se dedicaba a contar mentiras sobre ella."
+    },
+
+    
+    {
+        "id":40,
+        "temporada":"Temporada: 8",
+        "capitulo":"Capitulo: 12",
+        "imagen": "https://i.postimg.cc/X7zDWRm3/img40.jpg",
+        "titulo":"El de cuando Rachel sale con Joey",
+        "resumen":"Phoebe hace un bonito regalo a Mónica y Chandler, una máquina recreativa de Miss Pacman. Chandler consigue un gran éxito en la máquina, pero es algo estúpido al poner su nombre en la pantalla de records. Rachel tiene un mal día. Piensa que ya nunca más va a salir con hombres. Joey, en su faceta más sensible, invita a salir a Rachel."
+    },
+
+    
+    {
+        "id":41,
+        "temporada":"Temporada: 8",
+        "capitulo":"Capitulo: 17",
+        "imagen": "api/img41.png",
+        "titulo":"El de las hojas de té",
+        "resumen":"Joey está evitando a Rachel. No quiere tener que hablar del tema. Por su parte, Rachel si quiere ver a Joey por lo que inventa una excusa laboral para tener que hablar con Joey. Phoebe está aprendiendo a leer los pozos de la hoja de té, parece ser que el té le dice que está a punto de conocer al hombre de su vida. Phoebe emocionada cree que cada hombre que conoce puede ser el hombre de su vida, pero no, su primera opción es un pervertido y la segunda Alec Baldwin."
+    },
+
+    {
+        "id":42,
+        "temporada":"Temporada: 9",
+        "capitulo":"Capitulo: 10",
+        "imagen": "api/img42.png",
+        "titulo":"El de las navidades en Tulsa",
+        "resumen":"Chandler se ve obligado a permanecer en la ciudad de Tulsa durante las fiestas de Navidad debido a un importante retraso en un trabajo. Mónica se teme lo peor cuando se entera que Chandler estará acompañado por una bella compañera de oficina llamada Wendy. Artista invitado: Selma Blair"
+    },
+
+    {
+        "id":43,
+        "temporada":"Temporada: 9",
+        "capitulo":"Capitulo: 12",
+        "imagen": "api/img43.png",
+        "titulo":"El de las Ratas de Phoebe",
+        "resumen":"Rachel está muy irritada cuando se entera que la persona que le sustituye en el trabajo, Gavin, también va a acudir a su fiesta de cumpleaños. Mientras tanto, Ross se las ve y se las desea para mantener a Joey lejos de la nueva y atractiva niñera, Molly, que ha contratado Rachel para cuidar a Emma."
+    },
+
+    {
+        "id":44,
+        "temporada":"Temporada: 9",
+        "capitulo":"Capitulo: 14",
+        "imagen": "api/img44.png",
+        "titulo":"El de las citas a ciegas",
+        "resumen":"Joey y Phoebe se sienten muy mal por la reciente ''separación'' entre Ross y Rachel. Para tratar de arreglar esto arman un plan: Joey le buscaría a Ross alguien horrible para salir y Phoebe haría lo mismo con Rachel. De esa forma, se sentirían tan mal al tener citas horribles que volverían a estar juntos. Por su parte Chandler y Mónica deben cuidar de Emma mientras Ross y Rachel tenían sus citas. Justo da la casualidad que Mónica estaba ovulando ese mismo día, por lo que debían tener relaciones de inmediato para tratar de lograr su tan buscado embarazo. Pero Chandler no quería debido a que el bebé los estaba mirando."
+    },
+
+    {
+        "id":45,
+        "temporada":"Temporada: 9",
+        "capitulo":"Capitulo: 20",
+        "imagen": "api/img45.png",
+        "titulo":"El de la fiesta de los culebrones",
+        "resumen":""
+    },
+
+    {
+        "id":46,
+        "temporada":"Temporada: 10",
+        "capitulo":"Capitulo: 2",
+        "imagen": "api/img46.png",
+        "titulo":"En el que Rosita muere",
+        "resumen":"Joey y Rachel se sienten muy incómodos cuando Ross les pilla besándose, pero él insiste en que está bien, aunque no pare de hacer cosas raras. Mientras, Chandler y Monica van a conocer a una pareja que adoptó un niño para que les asesoren, pero Chandler no puede evitar meter la pata. Por otro lado, Phoebe recibe la visita de su hermano Frank, el cual se ve desbordado con los trillizos."
+    },
+
+    
+    {
+        "id":47,
+        "temporada":"Temporada: 10",
+        "capitulo":"Capitulo: 4",
+        "imagen": "api/img47.png",
+        "titulo":"El del pastel",
+        "resumen":"Es el primer cumpleaños de la pequeña Emma y Rachel no quiere que empiece la fiesta hasta que Emma se despierte de su siesta. Sin embargo, todos tienen un lugar al que ir: Monica y Chandler quieren irse de escapada de fin de semana a Vermont, Phoebe tiene un cliente de masajes y Joey tiene una audición."
+    },
+
+    {
+        "id":48,
+        "temporada":"Temporada: 10",
+        "capitulo":"Capitulo: 8",
+        "imagen": "api/img48.png",
+        "titulo":"El del día de Acción de Gracias tardío",
+        "resumen":"Aunque Monica no tenía intención de cocinar este año, los demás la convencen y encima llegan tarde a la cena. Rachel y Phoebe por llevar a Emma a un concurso de belleza, y Joey y Ross, por ir a ver un partido. Cuando por fin llegan a casa se encuentran la puerta cerrada."
+    },
+
+    
+    {
+        "id":49,
+        "temporada":"Temporada: 10",
+        "capitulo":"Capitulo: 10",
+        "imagen": "https://i.postimg.cc/qBCGnN5f/img49.jpg",
+        "titulo":"En el que pillan a Chandler",
+        "resumen":"Phoebe y Rachel pillan a Chandler subiendo a un coche con una mujer. Cuando le cuentan a Monica que creen que Chandler le engaña, descubren la verdadera razón: están buscando una casa para mudarse cuando sean padres."
+    },
+
+    {
+        "id":50,
+        "temporada":"Temporada: 10",
+        "capitulo":"Capitulo: 16",
+        "imagen": "https://i.postimg.cc/JzK3mZGX/img50.jpg",
+        "titulo":"El de la fiesta de despedida de Rachel",
+        "resumen":"Durante la fiesta de despedida, Rachel decide despedirse individualmente de cada uno de sus amigos. Mientras, Chandler descubre preparando su mudanza unas esposas en un armario y sospecha que son de Monica."
+    }
+
+
+
+
+]

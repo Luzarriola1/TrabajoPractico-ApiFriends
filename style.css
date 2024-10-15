@@ -1,0 +1,101 @@
+.card {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    transition: all .5s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    min-height: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+#buscar {
+    width: 100%;
+}
+
+#contenedor_cards {
+    text-align: center;
+}
+
+input:focus {
+    background-color: lightblue;
+}
+
+.btn {
+    background-color: #E6E6FA; /* Color lila claro para el fondo */
+    color: #7c2fbb; /* Color de texto lila oscuro para contraste */
+    border: none; /* Eliminar borde por defecto */
+    transition: background-color 0.3s ease; /* Transición suave al pasar el mouse */
+}
+
+.btn:hover {
+    background-color: #9e67b4; /* Color más oscuro al pasar el mouse */
+}
+
+
+
+
+/*|||||||||||||||||||||||||||||||||||||||||||*/ 
+
+
+    body {
+        background-color: #E6E6FA; /* Color de fondo lila claro */
+        line-height: 1.6; /* Espaciado entre líneas */
+        padding: 20px; /* Espaciado alrededor del contenido */
+    }
+
+    h1 {
+        color: #6A5ACD; /* Color del título */
+        margin-bottom: 20px; /* Margen inferior */
+        text-align: center; /* Alinear al centro */
+    }
+
+    h2 {
+        color:#6A5ACD; /* Color para el subtítulo */
+        margin: 20px 0; /* Margen superior e inferior */
+    }
+
+    h3 {
+        color:#6A5ACD; /* Color para el tercer título */
+        margin: 15px 0; /* Margen superior e inferior */
+    }
+
+    .container_info {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        gap: 20px; /* Espacio entre columnas */
+        padding: 20px; /* Espaciado interno */
+    }
+
+    img {
+        max-width: 300px; /* Limitar el ancho de las imágenes */
+        height: auto; /* Mantiene la proporción de la imagen */
+        border-radius: 8px; /* Bordes redondeados para la imagen */
+        margin-bottom: 15px; /* Margen inferior en la imagen */
+    }
+
+    p {
+        margin: 10px 0; /* Espaciado vertical en párrafos */
+    }
+
+    /* Estilo para las líneas amarillas */
+    .line {
+        height: 4px; /* Grosor de la línea */
+        background-color: #FFD700; /* Color amarillo */
+        margin: 20px 0; /* Espacio alrededor de la línea */
+    }
+
